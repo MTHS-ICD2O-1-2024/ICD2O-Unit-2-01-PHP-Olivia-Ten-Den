@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/pink-computer.png" alt="pink computer with two beige files shown on screen, image" />
+        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="written simple code with signed name at bottom, image" />
       </div>
       <div class="page-content">
         <?php
